@@ -7,6 +7,8 @@ Real-time mobility tracker and logger with visualization dashboard and data stor
 * Author: Jaafar Benabdallah
 * Last updated: January 2019
 
+* ![Dashboard example](/ressources/RealTimeTracker_Grafana_Dashboard.jpg?raw=true "Dashboard")
+
 ## Hardware
 * Particle's Electron 2G 
 * Sara Neo-M8N GNSS (GPS+Glonass) module (any breakout available at  Aliexpress will do)
