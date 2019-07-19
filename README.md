@@ -47,7 +47,7 @@ Real-time mobility tracker and logger with visualization dashboard and data stor
 * v 0.86 -> use Rickkas publishQueue when sending tracking and session data, without timestamp
 * v 0.862 -> turn on tracking when speed > 7 mph
 * v 0.863 -> fix odometer/trip time increment rules (now based on delta_distance > threshold)
-* v 0.87 -> back to using Google Fi data sim/plan, various bug fixes, testing GNSS stopped mode without switching off SMPS-> abondoned for now
+* v 0.87 -> back to using Google Fi data sim/plan, various bug fixes, testing GNSS stopped mode without switching off SMPS-> abandoned for now
 * v 0.88 -> parse new message from gnss: NAV-STATUS --> fix type and ttff. Added feature: get publish queue size
 * v 0.89 -> reduce published data size + include time by creating a webhook to expand data to telegraf payload format
 * v 0.9 -> software timers for imu reading and display refresh
